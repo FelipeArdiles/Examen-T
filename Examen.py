@@ -13,11 +13,11 @@ while True:
     if opc==1:
         asignar_sueldos_aleatorios()
     elif opc==2:
-        pass
+        clasificar_sueldos()
     elif opc==3:
         ver_estadisticas()
     elif opc==4:
-        pass
+        reporte_sueldos()
     elif opc==5:
         salir()
     else:
